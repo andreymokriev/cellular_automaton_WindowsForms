@@ -1,0 +1,20 @@
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\bin\Debug\GOL4.exe.config
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\bin\Debug\GOL4.exe
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\bin\Debug\GOL4.pdb
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.csprojAssemblyReference.cache
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.Form1.resources
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.Properties.Resources.resources
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.csproj.GenerateResource.cache
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.exe
+C:\Users\Evgeniya\source\repos\GOL4\GOL4\obj\Debug\GOL4.pdb
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\GOL4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\GOL4.Form1.resources
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\GOL4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\GOL4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GOL4n\GOL4\bin\Debug\Клеточные Автоматы. Мокриев. А.exe.config
+C:\Users\user\Desktop\GOL4n\GOL4\bin\Debug\Клеточные Автоматы. Мокриев. А.exe
+C:\Users\user\Desktop\GOL4n\GOL4\bin\Debug\Клеточные Автоматы. Мокриев. А.pdb
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\Клеточные Автоматы. Мокриев. А.exe
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\Клеточные Автоматы. Мокриев. А.pdb
+C:\Users\user\Desktop\GOL4n\GOL4\obj\Debug\CellAuto.Properties.Resources.resources
